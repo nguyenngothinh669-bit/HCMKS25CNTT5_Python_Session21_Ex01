@@ -1,0 +1,15 @@
+2026-06-15 12:42:01,267 - INFO - Balance checked. Current Balance: 0
+2026-06-15 12:42:14,708 - ERROR - InvalidAmountError: Attempted to process -111 VND.
+2026-06-15 12:42:57,696 - ERROR - ValueError: Invalid numeric input for deposit.
+2026-06-15 12:42:59,324 - ERROR - ValueError: Invalid numeric input for deposit.
+2026-06-15 12:42:59,714 - ERROR - ValueError: Invalid numeric input for deposit.
+2026-06-15 12:42:59,898 - ERROR - ValueError: Invalid numeric input for deposit.
+2026-06-15 12:43:00,124 - ERROR - ValueError: Invalid numeric input for deposit.
+2026-06-15 12:43:03,290 - INFO - Deposit successful: +10000 VND. Current Balance: 10000
+2026-06-15 12:43:06,468 - INFO - Balance checked. Current Balance: 10000
+2026-06-15 12:43:43,373 - ERROR - InsufficientBalanceError: Attempted to transfer 10000000 VND with balance 10000 VND.
+2026-06-15 12:44:19,864 - INFO - Deposit successful: +100000 VND. Current Balance: 110000
+2026-06-15 12:44:23,317 - INFO - Balance checked. Current Balance: 110000
+2026-06-15 12:44:54,712 - INFO - Transfer successful: -100000 VND to 0343180715. Current Balance: 10000
+2026-06-15 12:44:59,779 - INFO - Balance checked. Current Balance: 10000
+2026-06-15 12:45:03,363 - INFO - System shutdown
